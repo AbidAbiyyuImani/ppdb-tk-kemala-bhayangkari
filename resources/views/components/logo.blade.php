@@ -1,0 +1,1 @@
+<img src="{{ asset('storage/logo.png') }}" alt="Yayasan Kemala Bhayangkari" {{ $attributes->merge(['class' => 'hidden sm:block w-16 h-16 mx-auto my-2']) }}>
